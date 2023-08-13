@@ -5,13 +5,13 @@ tags:
 
 # ノミネーションアセスメントチーム
 
-*[ビートマップノミネーター評価](Evaluations), [SEV格付け](SEV_rating)も参照*
+*[ビートマップノミネーター評価](Evaluations)、[SEV格付け](SEV_rating)も参照*
 
 **ノミネーションアセスメントチーム** (***NAT***) は[ビートマップノミネーター](/wiki/People/Beatmap_Nominators) (*BN*) のモデレーションやosu!のビートマッピングに関する側面は機能的を確保するを持ったチームです。
 
-NATメンバーは橙赤色のユーザー名や、`NAT`と書かれているオレンジ色の[ユーザーグループ](/wiki/People/User_group)バッジ、ゲーム内での赤いユーザーネームで識別できます。 彼らは[グローバルモデレーションチーム](/wiki/People/Global_Moderation_Team) (*GMT*) と同様にサイト全体のモデレーション権限を持していて、[正会員](/wiki/People/Beatmap_Nominators#full-beatmap-nominators)の[ビートマップノミネーター](/wiki/People/Beatmap_Nominators) (*BN*) のようにビートマップを[ノミネート](/wiki/Beatmap_ranking_procedure#nominations)したり、[ノミネーションをリセット](/wiki/Beatmap_ranking_procedure#nomination-resets)したりできます。ほとんどの目的に関しては、NATメンバーは異なった責任を持ったBNのような者です。Therefore, all [BN rules](/wiki/People/Beatmap_Nominators/Rules) and [expectations](/wiki/People/Beatmap_Nominators/Expectations) apply to NAT members, with some exceptions for activity.
+NATメンバーは橙赤色のユーザー名や、`NAT`と書かれているオレンジ色の[ユーザーグループ](/wiki/People/User_group)バッジ、ゲーム内での赤いユーザーネームで識別できます。彼らは[グローバルモデレーションチーム](/wiki/People/Global_Moderation_Team) (*GMT*) と同様にサイト全体のモデレーション権限を持していて、[正会員](/wiki/People/Beatmap_Nominators#full-beatmap-nominators)の[ビートマップノミネーター](/wiki/People/Beatmap_Nominators) (*BN*) のようにビートマップを[ノミネート](/wiki/Beatmap_ranking_procedure#nominations)したり、[ノミネーションをリセット](/wiki/Beatmap_ranking_procedure#nomination-resets)したりできます。ほとんどの目的に関しては、NATメンバーは異なった責任を持ったBNのような者です。なので、すべての[BNルール](/wiki/People/Beatmap_Nominators/Rules)と[期待](/wiki/People/Beatmap_Nominators/Expectations)はNATメンバーに適用されます。活動に関しては例外があります。
 
-**All members of the ノミネーションアセスメントチーム are sworn to uphold [the Contributor Code of Conduct](/wiki/Rules/Contributor_code_of_conduct) in addition to the normal [Community Rules](/wiki/Rules).**
+**すべてのノミネーションアセスメントチームメンバーは[コミュニティルール](/wiki/Rules)に加えて[貢献者の行動綱領](/wiki/Rules/Contributor_code_of_conduct)を遵守することを誓います。**
 
 ***Note: To report a member of the NAT misbehaving or breaking the Contributor Code of Conduct, please contact the [account support team](/wiki/People/Account_support_team#support@ppy.sh).***
 
